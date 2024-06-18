@@ -13,7 +13,6 @@ import {
 	ModalFooter,
 	ModalHeader,
 	ModalOverlay,
-	Text,
 	Textarea,
 	Tooltip,
 	useDisclosure,

@@ -1,5 +1,4 @@
 import { Box, Flex, Text } from "@chakra-ui/react";
-import { BsBookmark, BsSuitHeart } from "react-icons/bs";
 import { Si4Chan } from "react-icons/si";
 
 const ProfileTabs = () => {
